@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8912683a.css","mappings":"AACA,aACE,aAAc,CACd,UACF","sources":["App.css"],"sourcesContent":["\ninput,button{\n  display: block;\n  margin: 5px;\n}"],"names":[],"sourceRoot":""}
